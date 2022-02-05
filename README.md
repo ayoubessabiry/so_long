@@ -1,4 +1,4 @@
-## [SO_LONG](https://github.com/ayoubessabiry/so_long/edit/main/README.md#so_long)
+## SO_LONG
      is a small 2d game
 
 
