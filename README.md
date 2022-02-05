@@ -1,5 +1,7 @@
-# so_long
-
-# SO_LONG 
+## [SO_LONG](https://github.com/ayoubessabiry/so_long/edit/main/README.md#so_long)
      is a small 2d game
-![dek-14May10-1 (1)](https://user-images.githubusercontent.com/58753810/152643988-2ea85652-9e95-4a8c-b2c8-44b5a7f88603.jpeg)
+
+
+
+https://user-images.githubusercontent.com/58753810/152644372-789a3262-39bc-4783-93e0-539698e7083b.mov
+
